@@ -14,8 +14,10 @@ My journey through Paul Hudson's [Hacking with macOS][hacking-with-macos] book a
 | Project                     | Repo                                             |
 |-----------------------------|--------------------------------------------------|
 | Project 1                   | [Storm Viewer][project-1]                        |
+| Project 2                   | [Cows and Bulls][project-2]                        |
 
 
 
 [project-1]: https://github.com/neurothrone/storm-viewer
+[project-2]: https://github.com/neurothrone/cows-and-bulls
 
