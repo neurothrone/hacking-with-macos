@@ -20,6 +20,8 @@ My journey through Paul Hudson's [Hacking with macOS][hacking-with-macos] book a
 | Project 7                   | [FastTrack][project-7]                           |
 | Project 8                   | [OddOneOut][project-8]                           |
 | Project 10                  | [TimeBuddy][project-10]                          |
+| Project 13                  | [Screenable][project-13]                         |
+| Project 16                  | [Bookworm][project-16]                           |
 
 
 [project-1]: https://github.com/neurothrone/storm-viewer
@@ -29,4 +31,7 @@ My journey through Paul Hudson's [Hacking with macOS][hacking-with-macos] book a
 [project-7]: https://github.com/neurothrone/hwm-fast-track
 [project-8]: https://github.com/neurothrone/hwm-odd-one-out
 [project-10]: https://github.com/neurothrone/hwm-time-buddy
+
+[project-13]: https://github.com/neurothrone/hwm-screenable
+[project-16]: https://github.com/neurothrone/hwm-bookworm
 
